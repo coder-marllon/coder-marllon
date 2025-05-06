@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou Marllon Lima;
 - 🔭 Atualmente estou fazendo faculdade em T.I.C na FAETERJ - Quitadinha;
-- 🌱 Atualmente sou residente em TIC STEM no SERRATEC;
+- 🌱 Atualmente sou residente STEM/TIC no Serratec – Parque Tecnológico da Região Serrana;
 - 🤔 Estou procurando melhorar a cada dia;
 - ⚡ Curiosidade: Sou novo nessa área de Tecnologia
 
